@@ -1,5 +1,4 @@
 {
-  "parser": "./malicious-parser.js",
   "plugins": ["pwn"],
   "rules": {
     "pwn/pwn": "error"
