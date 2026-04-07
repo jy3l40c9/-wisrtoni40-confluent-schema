@@ -1,0 +1,2 @@
+def pwn():
+    print("Pwned")
